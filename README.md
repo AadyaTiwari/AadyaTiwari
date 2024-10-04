@@ -2,8 +2,6 @@
 
 👩🏻‍💻 Programmer/Coder/Software Engineer etc [call it what you want](https://www.youtube.com/watch?v=V54CEElTF_U) lol<br/>
 ⚙️ Currently learning about the CI/CD principles of software  <br/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/<aadyatiwari>)
-
 
 
 
